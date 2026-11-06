@@ -25,7 +25,6 @@ Track live market data, manage your portfolio, and explore coins with a smooth, 
 
 </div>
 
-> 💡 Add your images to a `Screenshots/` folder in the repo and update the file names above.
 
 ---
 
