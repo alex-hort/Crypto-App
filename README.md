@@ -19,7 +19,7 @@ Track live market data, manage your portfolio, and explore coins with a smooth, 
 
 <div align="center">
 
-| Home | Portfolio | Coin Detail | Settings |
+| Launch | Home | Coin Detail | Settings |
 |:---:|:---:|:---:|:---:|
 | <img src="Screenshots/screenshot1.png" width="200"/> | <img src="Screenshots/screenshot2.png" width="200"/> | <img src="Screenshots/screenshot3.png" width="200"/> | <img src="Screenshots/screenshot4.png" width="200"/> |
 
